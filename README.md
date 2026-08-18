@@ -13,7 +13,9 @@ Running multiple trading accounts can be difficult, even more so when you can on
 
 This video will explain techniques we use to open multiple accounts at the same time.
 
-Creating multiple Metatrader installations doesn't require running the installer, and this technique can also be used to copy installations from one computer to another.<!-- START_FOOTER -->
+Creating multiple Metatrader installations doesn't require running the installer, and this technique can also be used to copy installations from one computer to another.
+
+<!-- START_FOOTER -->
 ### Warning
 
 This is not to be used for live trading
