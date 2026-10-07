@@ -8,6 +8,8 @@ https://orchardforex.com/ic
 
 <!-- END_HEADER -->
 
+## Description
+
 How to have 2, 3 or all of your Metatrader accounts open at the same time
 
 Running multiple trading accounts can be difficult, even more so when you can only have one open at a time in Metatrader.
