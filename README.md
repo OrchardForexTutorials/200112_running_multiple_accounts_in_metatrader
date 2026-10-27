@@ -1,9 +1,14 @@
+# Running Multiple Accounts in Metatrader
+
 <!-- START_HEADER -->
+
 Youtube:  
 https://youtu.be/LuqvJbDxgig
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
+
+
 <!-- END_HEADER -->
 
 ## Description
@@ -74,6 +79,7 @@ ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVE
 IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL
 ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT.
 NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.
+
 <!-- END_FOOTER -->
 
 
